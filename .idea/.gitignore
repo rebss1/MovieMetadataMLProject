@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+.conda/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# PyCharm project files
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Data files
+data/*.zip
+data/*.csv
+data/*.xlsx
+
+# Reports and outputs
+reports/*.html
+reports/*.pdf
+reports/*.png
+
+# Cache
+*.cache
+*.pkl
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Notebook temporary files
+*.nbconvert.ipynb
+*.checkpoint.ipynb
